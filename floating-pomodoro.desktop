@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Floating Pomodoro
+Comment=Minimal Pomodoro timer that floats above fullscreen windows
+Exec=floating-pomodoro
+Icon=alarm-symbolic
+Terminal=false
+Categories=Utility;
